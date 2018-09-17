@@ -5,6 +5,7 @@ package Area1.Area4;
  */
 public class File1Area4 {
     public File1Area4(){
+		int i=0;
         
     }
 }
